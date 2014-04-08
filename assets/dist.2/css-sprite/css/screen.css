@@ -1,0 +1,35 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 66, btn/*.png */
+.btn-sprite, .btn-entry, .btn-kuchikomi, .btn-request, .btn-tips, .dist {
+  background: url('../images/btn-s7eed27e234.png') no-repeat;
+}
+
+/* line 60, ../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.btn-entry {
+  background-position: 0 -103px;
+}
+
+/* line 60, ../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.btn-kuchikomi {
+  background-position: 0 -70px;
+}
+
+/* line 60, ../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.btn-request {
+  background-position: 0 -37px;
+}
+
+/* line 60, ../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.btn-tips {
+  background-position: 0 0;
+}
+
+/* line 11, ../sass/screen.scss */
+.dist {
+  background-position: 0 -103px;
+  height: 33px;
+  width: 175px;
+}

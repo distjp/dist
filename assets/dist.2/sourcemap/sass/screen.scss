@@ -1,0 +1,132 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #ECF0F1;
+	line-height: 1.4;
+}
+
+a {
+	color: #ECF0F1;
+	background-color: #2C3E50;
+
+	&:hover {
+		color: #2C3E50;
+		background-color: #F1C40F;
+	}
+}
+
+em {
+	font-weight: bold;
+	font-style: normal;
+}
+
+blockquote {
+	font-style: italic;
+}
+
+hr {
+	width: 80%;
+	margin: 2em auto;
+}
+
+table {
+	width: 70%;
+	margin: 0 auto;
+	border-collapse: collapse;
+}
+
+th,
+td {
+	padding: 0.5em;
+	border: 2px solid #2C3E50;
+}
+
+th {
+	color: #ECF0F1;
+	background-color: #16A085;
+}
+
+thead th {
+	background-color: #2C3E50;
+}
+
+ol {
+	width: 30%;
+	margin: 0 auto;
+	list-style-type: decimal-leading-zero;
+}
+
+ul {
+	width: 30%;
+	margin: 0 auto;
+}
+
+header {
+	padding: 2em;
+	text-align: center;
+	color: #ECF0F1;
+
+	h1 {
+		margin: 0;
+		font-family: Helvetica, sans-serif;
+		font-size: 42px;
+	}
+
+	.author {
+		margin-bottom: 0;
+		letter-spacing: 0.2em;
+		font-size: 12px;
+	}
+
+	.description {
+		font-size: 14px;
+		font-style: italic;
+	}
+}
+
+main {
+	display: block;
+	padding: 2em;
+
+	h2 {
+		margin-top: 0;
+		text-align: center;
+		text-decoration: underline;
+		color: #16A085;
+		font-size: 30px;
+	}
+
+	h3 {
+		text-align: center;
+		font-size: 28px;
+	}
+
+	.image {
+		width: 640px;
+		margin: 0 auto;
+	}
+
+	p {
+		text-indent: 1em;
+	}
+
+	thead .step {
+		width: 100px;
+	}
+
+	thead .english {
+		width: 220px;
+	}
+}
+
+#footer {
+	padding: 2em;
+	text-align: center;
+	color: #ECF0F1;
+
+	p {
+		margin: 0;
+		font-family: Helvetica, sans-serif;
+		font-size: 14px;
+	}
+}
