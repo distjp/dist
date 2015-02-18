@@ -13,5 +13,4 @@ DISTで使ったファイル一式を公開しています。
 
 ## 最新情報
 
-DISTは、まだWebサイトがありませんので、最新情報はconnpassのイベントページをご覧ください。
-http://connpass.com/series/639/
+DISTは、まだWebサイトがありませんので、最新情報は[connpassのDISTグループページ](http://dist.connpass.com/)をご覧ください。
